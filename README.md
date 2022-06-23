@@ -36,10 +36,19 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## >  THIS BOT IT USE MULTI DEVICE BAILEYS
 # MAKING... 
 
+##### ❗ readthis
+```
+යම් අවස්තාවලදී බොට් online හිටියද වැඩ නැතුව යන්න පුලුවන් එය ඉබේම පැය ගානකින් හරියනවා
+එච්චර වෙලා ඉන්න බැරිනම් ආපව් sesson  එක scan කරලා file එක uplode  කරන්න 
+
+In some cases, even if the bot is online, it can go off without a hitch
+ If you can't wait that long then scan the session and upload the file
+```
 
 
 
-## JOIN MY WHATSAPP GROUP
+
+## JOIN WHATSAPP SUPPORT GROUP
 
 # [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GLTYbadPDlFAOjz1Co3DoU)
 
