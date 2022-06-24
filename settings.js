@@ -29,7 +29,7 @@ global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage 
-global.alive =`Hello i am alive now
+global.alive =`Hello i am කපුටගෙ අයිය මයින
 
 Download song type .yt 
 Thanks fro using...`
